@@ -1,4 +1,4 @@
-# Bank Management System
+# Bank Management System Console Application
 
 A robust console-based Bank Management System built with Core Java and MySQL. This application allows users to create accounts, perform transactions (deposits, withdrawals, fund transfers), and manage user data through a secure console interface. The system employs a Model-View-Presenter (MVP) architecture for clean separation of concerns and maintainability.
 
